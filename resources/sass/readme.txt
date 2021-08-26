@@ -1,0 +1,20 @@
+css
+#dashboard
+css/bootstrap.min.css
+css/font-awesome.min.css
+css/style.css
+css/dataTables.bootstrap4.min.css
+css/bootstrap-select.min.css
+#category and #menu
+css/menuManagerStyles.css
+#file
+-
+#gallery
+css/dropzone.min.css
+css/jquery.fancybox.min.css
+#content
+css/tagsinput.css
+#messages
+-
+#settings
+css/tabs.css
