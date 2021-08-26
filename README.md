@@ -1,4 +1,4 @@
-# This is my Laravel admin panel which is flexible and easy to use in creating and developing all types of applications.
+# This is my Laravel SkAdmin panel which is flexible and easy to use in creating and developing all types of applications.
 This is easy to add any templates and designs to it and start working on.
 some of the features:
 <ul>
